@@ -1,3 +1,6 @@
 [submodule "MedEx"]
 	path = MedEx
 	url = git@github.com:BrunosBastos/MedEx.git
+[submodule "ExDelivery"]
+	path = ExDelivery
+	url = git@github.com:BrunosBastos/ExDelivery.git
